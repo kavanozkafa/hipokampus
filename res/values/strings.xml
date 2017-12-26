@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hipokampus</string>
+
+    <string-array name="type">
+        <item>Oyun Zorluğu</item>
+        <item>Kolay</item>
+        <item>Orta</item>
+        <item>Zor</item>
+    </string-array>
+
+    <string-array name="cesit">
+        <item>Kart Türü</item>
+        <item>Futbol</item>
+        <item>Pokemon</item>
+        <item>Ülkeler</item>
+        <item>NBA</item>
+        <item>Programlama</item>
+    </string-array>
+
+</resources>
